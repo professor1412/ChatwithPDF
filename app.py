@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 
-
+# This is all about chatwithpdf
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 if not api_key:
