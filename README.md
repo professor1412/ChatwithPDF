@@ -1,4 +1,4 @@
-# ChatwithPDF
+
 # ChatWithPDF
 
 ChatWithPDF is a project that allows users to interact with PDF documents using natural language queries. This project leverages the Gemini large language models and the `models/embedding-001` model to provide accurate and contextual responses based on the content of the PDFs.
